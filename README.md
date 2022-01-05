@@ -6,6 +6,8 @@ Short url: https://openmetaanalysis.github.io/covid-19/
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is likely not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 75%. This review updates previously published meta-analysis(es).(citation[s] below)
 
+The PRINCIPLE and STOIC trial are open-label. This may expecially bias the STOIC trial in which the composite, primary outcome includes patient's decisions to go obtain an emergency evaluation.
+
 <!--
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 
